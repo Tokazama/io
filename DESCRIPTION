@@ -1,0 +1,16 @@
+Package: io
+Type: Package
+Title: Input/output utilities
+Version: 0.1.0
+Author: Zachary P. Christensen
+Maintainer: Zachary P. Christensen <zchristensen7@gmail.com>
+Description: Allows users to have default input/output methods without using package specific functions.
+Depends:
+    R (>= 3.3),
+    R6
+Suggests:
+    tibble
+License: GPL (>=2)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.0
